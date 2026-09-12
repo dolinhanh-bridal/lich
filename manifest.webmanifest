@@ -1,0 +1,17 @@
+{
+  "name": "Lịch toàn năng · Dolinhanh Bridal",
+  "short_name": "Lịch DLA",
+  "description": "Lịch tiếp khách, chấm công và việc trong ngày của nhân viên Dolinhanh Bridal.",
+  "start_url": "./?vao=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3A5F",
+  "theme_color": "#1F3A5F",
+  "lang": "vi",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
